@@ -24,7 +24,7 @@ Raw Data → Data Preparation → Formula Analysis → Advanced Analysis → Vis
 | 📊 Title | Data Intelligence Dashboard |
 | 🛠️ Tool | Microsoft Excel |
 | 📂 Dataset | Final Project Dataset |
-| 📈 Records | 251 Transaction Records |
+| 📈 Records | 250 Transaction Records |
 | 🎯 Project Type | Data Analytics & Business Intelligence |
 | 📊 Output | Interactive Dashboard & Final Report |
 
